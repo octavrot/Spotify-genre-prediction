@@ -15,7 +15,7 @@ This project focuses on predicting music genres using machine learning technique
 - [Future Work](#future-work)
 
 ## Introduction
-With the digital transformation of music consumption, platforms like Spotify leverage machine learning algorithms to provide personalized recommendations. Organizing music by genre is crucial for recommendations, trend analysis, and content management. This project aims to classify songs into appropriate genres using machine learning techniques.
+With the digital transformation of music consumption, platforms like Spotify leverage machine learning algorithms to provide personalized recommendations. Organizing music by genre is crucial for recommendations, trend analysis, and content management. This project aims to classify songs into appropriate genres using machine learning techniques. None of the proposed solutions available at Kaggle have reached as good results as our model does.
 
 ## Data Preprocessing
 The dataset consists of 114,000 tracks with 21 features, including audio attributes like danceability, energy, loudness, and valence. The preprocessing steps include:
